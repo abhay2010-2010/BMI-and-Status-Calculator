@@ -8,18 +8,18 @@ Create the following application the boilerplate code provided .
 
 ## Submission Instructions [Please note]
 
-## Maximum Marks - 10
+
 
 - The Submission should not contain spaces, for example /rct-101 folder/eval will not work
 - Do not push node_modules and package_lock.json to github
 
 ```
- ✅ able to submit the app - 1 mark ( minimum score )
- ✅ displays the BMI calculator  - 3 mark
- ✅ calculates BMI when 'Calculate' button is clicked for Healthy - 2 mark
- ✅ calculates BMI when 'Calculate' button is clicked for Underweight - 1 mark
- ✅ calculates BMI when 'Calculate' button is clicked for Overweight- 1 marks
- ✅ resets form and remove results Grid  when 'Reset' button is clicked - 2 marks
+ ✅ able to submit the app - 
+ ✅ displays the BMI calculator  - 
+ ✅ calculates BMI when 'Calculate' button is clicked for Healthy - 
+ ✅ calculates BMI when 'Calculate' button is clicked for Underweight -
+ ✅ calculates BMI when 'Calculate' button is clicked for Overweight-
+ ✅ resets form and remove results Grid  when 'Reset' button is clicked - 
 
 ```
 
